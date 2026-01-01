@@ -25,6 +25,8 @@ spec:
         - name: COLOR
           value: "blue"
         - name: COLORS
-          value: "yellow"          
+          value: "yellow"
+        - name: MESSAGE
+          value: "Hello from BGD!"  
         resources: {}
 ---
